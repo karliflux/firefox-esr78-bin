@@ -6,7 +6,7 @@
 # how to install this (or any) pkgbuild
 <p>installing AUR packages manually is really easy once you memorize it!</p>
 <p>here's a 1-2-3 guide on how to do it:</p>
-<p>1: clone the source code to your pc, by typing in `git clone` then the path to the repository you want to clone, like this</p>
+<p>1: clone the source code to your pc, by typing in git clone then the path to the repository you want to clone, like this</p>
 <p>     # git clone https://github.com/sleepykitteh-4314/firefox-esr78-bin.git</p>
 <p>2: changing into the directory of the newly downloaded repository</p>
 <p>     # cd firefox-esr78-bin</p>
