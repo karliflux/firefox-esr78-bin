@@ -1,12 +1,12 @@
 [Desktop Entry]
-Name=Firefox ESR 78 - Safe Mode
+Name=Firefox ESR 52 - Safe Mode
 GenericName=Web Browser - Safe Mode
-Icon=firefox-esr78
+Icon=firefox-esr52
 Type=Application
 Categories=Application;Network;WebBrowser;
 MimeType=text/html
 Encoding=UTF-8
-Exec=firefox-esr78 -safe-mode %u
+Exec=firefox-esr52 -safe-mode %u
 Terminal=false
 MultipleArgs=false
 StartupNotify=false
