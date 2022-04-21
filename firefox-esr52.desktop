@@ -1,12 +1,12 @@
 [Desktop Entry]
-Name=Firefox ESR 78
+Name=Firefox ESR 52
 GenericName=Web Browser
-Icon=firefox-esr78
+Icon=firefox-esr52
 Type=Application
 Categories=Application;Network;WebBrowser;
 MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;text/mml;x-scheme-handler/http;x-scheme-handler/https;
 Encoding=UTF-8
-Exec=firefox-esr78 %u
+Exec=firefox-esr52 %u
 Terminal=false
 MultipleArgs=false
 StartupNotify=false
